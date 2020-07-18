@@ -1,6 +1,3 @@
-#include<iostream>
-#include<stack>
-#include<conio.h>
 #include<bits\stdc++.h>
 using namespace std;
 int main()
